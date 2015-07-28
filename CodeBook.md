@@ -39,7 +39,7 @@ The set of variables that were estimated from the signals above which are includ
 mean(): Mean value
 std(): Standard deviation
 
-The values in columns 3 through 68 of the dataset are means of all the recorded measurements of the indicated variable for a given SUBJECT performing the indicated ACTIVITY. Therefore, the dataset contains 180 rows (30 subjects x 6 activities).
+The values in columns 3 through 68 of the data set are means of all the recorded measurements of the indicated variable for a given SUBJECT performing the indicated ACTIVITY. Therefore, the dataset contains 180 rows (30 subjects x 6 activities).
 
 Source: 
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
